@@ -1,0 +1,21 @@
+.App {
+	text-align: center;
+}
+
+.backgroundFile {
+	position: absolute;
+	display: flex;
+	padding: 0.75rem;
+	background-color: #222;
+	border-radius: 10px;
+	margin: 0.5rem;
+	cursor: pointer;
+}
+
+.fileName {
+	color: white;
+}
+
+.fileInput {
+	display: none;
+}
